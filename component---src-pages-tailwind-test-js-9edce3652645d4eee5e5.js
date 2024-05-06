@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[634],{9201:function(e,t,l){l.r(t);var s=l(7294);t.default=()=>s.createElement("div",{className:"flex flex-col items-center justify-center min-h-screen bg-blue-100"},s.createElement("h1",{className:"text-4xl text-blue-700 font-bold"},"Tailwind CSS is Working!"))}}]);
+//# sourceMappingURL=component---src-pages-tailwind-test-js-9edce3652645d4eee5e5.js.map
