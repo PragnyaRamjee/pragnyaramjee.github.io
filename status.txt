@@ -1,0 +1,7 @@
+am trying to define the font styles
+not sure how to incorporate tailwind here
+
+and the buttons
+also need to define a "tag" component before getting started. 
+
+all i really need is h6,h5, h4 maybe. rest are overkill. 
